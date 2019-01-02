@@ -8,7 +8,7 @@ import edu.nyu.crypto.csci3033.blockchain.NetworkStatistics;
  * It turns our as long as ShMiner's mining power is at least equal to that of a SelfishMiner (if any),
  * ShMiner will have an absurdly dominating profit.
  * 
- * @author shw344, yyl346
+ * @author qtds35k
  */
 
 public class ShMiner extends BaseMiner implements Miner {
