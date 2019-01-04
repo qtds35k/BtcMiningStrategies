@@ -13,5 +13,5 @@ We implement three strategies in Bitcoin Mining that are based on miner's self-i
 	- When a block is found containing unusually large transaction fee, the attacking party tries to fork the blockchain by:
 		1. Rejecting this block and mines (including the fat transaction) on top of the previous one.
 		2. If the party mines 2 blocks in a row, the fork becomes the longest chain and party gets to keep the fat transaction for itself.
-<br><br>
+
 Run "MiningSimulation" as JUnit test to start the simulation. The reward of different strategies will be shown in the console.
