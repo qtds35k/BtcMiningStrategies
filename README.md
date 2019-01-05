@@ -1,6 +1,6 @@
 # Bitcoin Mining Strategies
 
-We implement three strategies in Bitcoin Mining that are based on miner's self-interest.
+We implement three strategies in Bitcoin mining that are based on miner's self-interest.
 1. Majority Miner (forking attack)
 	- This attack becomes feasible and more profitable when:
 		- A party possesses the majority computing power of the network (say > 51%)
