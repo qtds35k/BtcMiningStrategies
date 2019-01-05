@@ -17,5 +17,5 @@ We implement three strategies in Bitcoin Mining that are based on miner's self-i
 Run **MiningSimulation.java** as JUnit test to start the simulation. The reward of different strategies will be shown in the console.
 
 ## Reference
-	- [Majority Attack](https://en.bitcoin.it/wiki/Majority_attack)
-	- [Selfish Mining](https://www.investopedia.com/terms/s/selfish-mining.asp)
+- [Majority Attack](https://en.bitcoin.it/wiki/Majority_attack)
+- [Selfish Mining](https://www.investopedia.com/terms/s/selfish-mining.asp)
